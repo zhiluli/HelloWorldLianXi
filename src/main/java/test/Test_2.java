@@ -7,7 +7,7 @@ import java.util.Arrays;
 public class Test_2 {
     /**
      * @author jyroy
-     * 冒泡排序常规版
+     * 冒泡排序常规版  啊啊啊
      */
 
         public static void main(String[] args) {
